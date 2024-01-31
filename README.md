@@ -13,10 +13,15 @@ The dataset that I am using to analyze the data about billionaires around the wo
 - rank: billionaire rank.
 - age: age of the billionaire.
 - gender: gender of the billionaire.
-- title: professional title or designation.
+
 
 Through this exploratory data analysis (EDA) I will try to answer the folowing questions. 
 
-- Question 1
-- Question 1
-- Question 1
+- Top 10 Billionaires based on the final worth.
+- Top 5 domains of the Billionaire people.
+- Top 5 source of income for the Billionaires.
+- Top 5 Countries with Most Number of Billionaires.
+- Age Distribution of Billionaires.
+- Number of male and female billionaires.
+- Number of self made and female billionaires.
+- Number of male and female among the self made billionaires.
